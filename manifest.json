@@ -1,0 +1,22 @@
+{
+    "short_name": "BestWebApp",
+    "name": "Dit is de beste webapp aller tijden",
+    "description": "Lorem ipsum",
+    "icons": [
+        {
+            "src": "/resources/cargo-256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/resources/cargo-64.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        }
+    ],
+    "start_url": "/app.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#d66d33"
+}
