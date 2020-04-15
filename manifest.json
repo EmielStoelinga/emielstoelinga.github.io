@@ -1,7 +1,7 @@
 {
-    "short_name": "BestWebApp",
-    "name": "Dit is de beste webapp aller tijden",
-    "description": "Lorem ipsum",
+    "short_name": "TripsWebApp",
+    "name": "Trips Web App",
+    "description": "Web App for Emiel's trips",
     "icons": [
         {
             "src": "/resources/cargo-256.png",
